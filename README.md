@@ -1,1 +1,1 @@
-# -penguin-bash
+# penguin-bash
