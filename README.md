@@ -6,3 +6,5 @@ Play ogg <a href="http://playogg.org"><img title="I support PlayOgg!" src="http:
 
 Pensador certificado [![Certified Thinker](https://meatproxy.me/badge/c/kmcq5.svg)](https://meatproxy.me/c/kmcq5)
 
+I use ![GNU Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+
